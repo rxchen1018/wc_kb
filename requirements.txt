@@ -6,3 +6,4 @@ pyfaidx
 setuptools
 wc_utils
 wc_onto
+super_awesome_function
